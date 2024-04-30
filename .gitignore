@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.user
+*.vscode
+*.suo
+*.cache
+*.log
+*.dll
+*.exe
+*.pdb
+*.zip
+*.7z
+*.sln.iml
